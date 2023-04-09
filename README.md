@@ -11,3 +11,8 @@ Local network scanner with searhing MAC address devices information
 *icon from Ali ICON library*
 
 *requirement: **scapy***
+
+---
+### Usage
+1. >pip install scapy
+2. run *main.py* as python script
